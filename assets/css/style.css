@@ -1,0 +1,34 @@
+body{
+    background-image: url("../images/tiny_grid.png");
+	font-size: 25px;
+}
+h1 {
+
+    color:#7289DA;
+    background: #23272A;
+    padding: 20px;
+}
+
+.container {
+    background: #99AAB5;
+    padding: 40px;
+ 
+}
+.btn-primary,.reset{
+	background: #2C2F33;
+	color: white;
+	font-size: 30px;
+	padding: 20px;
+
+}
+.btn-primary:hover, .reset:hover{
+	background: #23272A;
+}
+.thisChoice:hover{
+	background:#2C2F33;
+	color: white;
+	padding: 10px;
+}
+#gif{
+	margin: 30px;
+}
