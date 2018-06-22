@@ -12,7 +12,7 @@ var triviaQuestions = [{
 },{
 	//3
 	question: "Dungeons and Dragons is currently on it's ___ edition!",
-	answerList: ["Fifth", "Eigth", "Tenth", "Fourth"],
+	answerList: ["Fifth", "Eighth", "Tenth", "Fourth"],
 	answer: 0
 },{
 	//4
@@ -22,7 +22,7 @@ var triviaQuestions = [{
 },{
 	//5
 	question: "Wizards who extend their lives through dark magic are known as Liches, they obtain eternal life by storing their souls in what?",
-	answerList: ["Anchient Artifacts", "Mortarium", "Phylacteries", "Spell Books"],
+	answerList: ["Ancient Artifacts", "Mortarium", "Phylacteries", "Spell Books"],
 	answer: 2
 },{
 	//6
